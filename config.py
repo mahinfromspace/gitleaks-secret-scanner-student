@@ -3,4 +3,4 @@
 
 import os
 
-AWS_ACCESS_KEY_ID = os.environ.get("AKIAZ2L3M4N5P6Q7R2S3")
+AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
